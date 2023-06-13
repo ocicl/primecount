@@ -1,0 +1,10 @@
+* primecount
+
+Prime counting of sublinear complexity in Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/AaronChen0/primecount.git   |
+| commit  | 1ba261a  |
+| systems | primecount |
+|---------+-------------------------------------------|
+
